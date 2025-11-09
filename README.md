@@ -19,5 +19,5 @@ This repository contains a collection of Java 8 programs demonstrating core lang
 
 ## How to Run
 1. Clone this repository:
-   git clone 
+   git clone https://github.com/muyeezkhan/Java8Programming.git
 
